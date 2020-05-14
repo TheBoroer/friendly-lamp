@@ -1,0 +1,8 @@
+{
+    "proxy": [
+        "www-prod-ca-1.workingvpn.com"
+    ],
+    "mirrorDomain": [
+        "workingvpn.com"
+    ]
+}
